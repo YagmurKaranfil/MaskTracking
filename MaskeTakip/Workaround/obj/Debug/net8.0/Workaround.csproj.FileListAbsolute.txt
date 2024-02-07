@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.exe
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.deps.json
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.dll
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\bin\Debug\net8.0\Workaround.pdb
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.dll
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\obj\Debug\net8.0\refint\Workaround.dll
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.pdb
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\obj\Debug\net8.0\ref\Workaround.dll
+C:\Users\HP\OneDrive\Masaüstü\C#\MaskeTakip\Workaround\obj\Debug\net8.0\Workaround.csproj.AssemblyReference.cache
